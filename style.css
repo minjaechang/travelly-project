@@ -75,7 +75,7 @@ nav {
   width: 90%;
   padding: 2rem;
   margin: auto;
-  min-height: 10vh;
+  min-height: 7vh;
   align-items: center;
   flex-wrap: wrap;
 }
@@ -177,7 +177,7 @@ nav ul {
 .benefits-header {
   background: #343c44;
   padding: 3rem;
-  min-height: 30vh;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -195,7 +195,7 @@ nav ul {
   flex-wrap: wrap;
   width: 90%;
   margin: auto;
-  min-height: 70vh;
+  min-height: 60vh;
   align-items: center;
 }
 
